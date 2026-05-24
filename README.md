@@ -2,6 +2,10 @@
 Replica del Videojuego de 1981 QIX
 Elaborado por Sebastián Lara para la clase de Programación de Videojuegos
 
+<p align="center">
+  <img src="qix.png" width="800"/>
+</p>
+
 Controles:
 W - Arriba (Mantener presionado)
 S - Abajo (Mantener presionado)
